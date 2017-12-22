@@ -35,7 +35,7 @@ Relays are used to forward logs from local networks to remote networks. This is 
 
 # Syslog Message Format and Contents
 
-![Syslog Format](@@path/images/syslog-packet.png)
+![Syslog Format](images/syslog-packet.png)
 
 The full format of a syslog message seen on the wire has three distinct parts:
 

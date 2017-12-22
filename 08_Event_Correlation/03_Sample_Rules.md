@@ -12,15 +12,15 @@ Correlating Cisco Events
 * Feel free to comment out/modify any rules you like.
 * Set up a trigger in the LogZilla `UI>Triggers` menu to match on the program name, "Cisco".
 
-![Trigger Event Correlation Rule](@@path/images/cisco-ec.png)
+![Trigger Event Correlation Rule](images/cisco-ec.png)
 
 Note here that rather than sending *all* Cisco events to the event correlation rule, you may also further refine your matches to any other items in this list such as individual Cisco Mnemonics, or only Cisco events with the word "failed", etc.
 
-![Refine Trigger Matching](@@path/images/cisco-ec-mne.png)
+![Refine Trigger Matching](images/cisco-ec-mne.png)
 
 * Configure this trigger to "Mark as Actionable" and "Execute a Script", then choose the included "cisco-event-correlation" script as the destination and "Save changes"
 
-![Select Options for EC Rule and Save](@@path/images/cisco-ec-save.png)
+![Select Options for EC Rule and Save](images/cisco-ec-save.png)
 
 
 Scripts

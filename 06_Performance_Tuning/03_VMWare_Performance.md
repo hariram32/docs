@@ -8,6 +8,6 @@ It should be noted that LogZilla does not recommend using VMWare for large-scale
 To set the resource allocation in VMWare, right-click on your VM and select `edit`.
 Next, click the `Resources tab` and click `disk` then change the drop-down menu from `normal` to `high` as seen below:
 
-![VMWare Resource Allocation](@@path/images/vmware-disk-priority.png)
+![VMWare Resource Allocation](images/vmware-disk-priority.png)
 
 

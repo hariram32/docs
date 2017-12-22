@@ -14,7 +14,7 @@ Our development cycle for a ticket lasts `6 weeks` from start to end. This is be
  - Master Branch
 
 
-![Ticket Lifecycle](@@path/images/ticketflow.png)
+![Ticket Lifecycle](images/ticketflow.png)
 
 
 ### Development Branch

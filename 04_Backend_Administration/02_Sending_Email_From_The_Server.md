@@ -2,7 +2,7 @@
 
 In order for LogZilla to be able to send email alerts, there must be a mail server configured in the `Settings` menu:
 
-![SMTP Setup](@@path/images/smtp.png)
+![SMTP Setup](images/smtp.png)
 
 > If using the default `127.0.0.1`, you must have a local mail host installed which is capable of forwarding to a real mail server to deliver the mail.
 

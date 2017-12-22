@@ -5,14 +5,14 @@
 
 The first drop-down on the left allows selection from existing dashboards, or creation of a new one.
 
-![Controls](@@path/images/dashboard-list.png)
+![Controls](images/dashboard-list.png)
 
 ---
 
 ## Dashboard Options
 The left-most side of the UI shows available options for `Edit`, `Clone`, `Export` and `Delete` of dashboards.
 
-![Dashboard Edit](@@path/images/dashboard-options.png)
+![Dashboard Edit](images/dashboard-options.png)
 
 **Exporting**
 
@@ -23,7 +23,7 @@ Dashboards may be exported to JSON format for modification, sharing, etc. There 
 # Adding Widgets
 Widget types are listed in the "Add Widget" menu option which allow customization of widget filters once that type is added.
 
-![Add Widget](@@path/images/add-widget.png)
+![Add Widget](images/add-widget.png)
 
 For more information in tailoring widgets to your needs, see the section ["Creating your own widgets"](/help/using_the_dashboard/creating_your_own_widgets).
 
@@ -37,11 +37,11 @@ Setting a widget to "Same as dashboard" tells that widget to use the time range 
 
 ** Dashboard Time Range Selector**
 
-![Dashboard Range Selector](@@path/images/dashboard-time-range-selector.png)
+![Dashboard Range Selector](images/dashboard-time-range-selector.png)
 
 ** Widget Time Range Selector**
 
-![Widget Range Selector](@@path/images/widget-time-range.png)
+![Widget Range Selector](images/widget-time-range.png)
 
 ---
 
@@ -49,5 +49,5 @@ Setting a widget to "Same as dashboard" tells that widget to use the time range 
 
 TV Mode may be used to maximize the LogZilla dashboard as a full-screen view. In TV Mode, all navigation, search, etc. are removed from view so that only the dashboard widgets are displayed. This is particularly useful in large-screen Network Operations Centers.
 
-![Widget Range Selector](@@path/images/tv-mode.png)
+![Widget Range Selector](images/tv-mode.png)
 

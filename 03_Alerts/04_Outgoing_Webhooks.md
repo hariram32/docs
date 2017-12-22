@@ -8,11 +8,11 @@ The example below shows a trigger set to match on `rejected` messages from Postf
 
 Webhook Post to Slack
 ---
-![Slack Notification Webhook](@@path/images/outgoing_webhooks.png)
+![Slack Notification Webhook](images/outgoing_webhooks.png)
 
 Alert Shown in Slack Channel
 ---
-![Slack Alert](@@path/images/slack_alert.png)
+![Slack Alert](images/slack_alert.png)
 
 
 # Post Data Used

@@ -94,11 +94,11 @@ Example rewrite rule:
 By using the rule above, the UI will now provide widgets such as:
 
 **Class and Method Categories**
-![Class and Method Names](@@path/images/log4j-widgets.png)
-![Widget Config](@@path/images/java-widget-settings.png)
+![Class and Method Names](images/log4j-widgets.png)
+![Widget Config](images/java-widget-settings.png)
 
 **Live Search (showing transformed program names)**
-![Search](@@path/images/java-events.png)
+![Search](images/java-events.png)
 
 
 

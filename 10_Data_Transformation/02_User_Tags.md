@@ -64,14 +64,14 @@ It is easy to extract and track the name of the users as well as the source  add
 
 **User Tags Field Selector**
 
-![UT Field Select](@@path/images/ut_field_select.png)
+![UT Field Select](images/ut_field_select.png)
 
 
 * Your `TopN` chart will now display the Top Authentication Failed Usernames
 
 **Top Auth Fail Usernames chart**
 
-![Failed User Auth](@@path/images/authfail_user_topn.png)
+![Failed User Auth](images/authfail_user_topn.png)
 
 # Match/Update Based on Tags
 

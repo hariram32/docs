@@ -15,4 +15,4 @@ In the LogZilla UI, click the 'Triggers' link in the top menu. There, you'll see
 
 If you'd like to monitor failed logins for all of your servers, this is the best place to do it. Simply click the button, give your new trigger a name, and enter your search criteria, 'failed login' in the 'Event match' section. By default, 'Issue Notification' is already selected, so for a system wide rule, that's all you need to do. Just click 'Save changes' and your trigger will be active.
 
-![Add new trigger](@@path/images/add-new-trigger.png)
+![Add new trigger](images/add-new-trigger.png)

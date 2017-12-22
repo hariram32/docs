@@ -10,13 +10,13 @@ In the example below, we will use SNARE, <a href="http://sourceforge.net/project
 
 During the setup process, select the default choices:
 
-![Snare Auditing](@@path/images/snare-001.png)
+![Snare Auditing](images/snare-001.png)
 
-![Service Account](@@path/images/snare-002.png)
+![Service Account](images/snare-002.png)
 
 For remote control, select the method which best suits your environment:
 
-![Remote Admin](@@path/images/snare-003.png)
+![Remote Admin](images/snare-003.png)
 
 After install, select `Snare for Windows` from you program group, or browse to `http://localhost:6161/`
 
@@ -37,7 +37,7 @@ Select `Network Configuration` from the left menu and set the following paramete
 
 > Important: be sure to check the box `Enable SYSLOG Header?`
 
-![Enable Syslog Header](@@path/images/snare-004.png)
+![Enable Syslog Header](images/snare-004.png)
 
 
 Leave the other settings at their defaults and click `Apply the Latest Audit Configuration`
